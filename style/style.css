@@ -1,0 +1,74 @@
+body {
+	background-image: url('../src/fundo.png');
+	font-size: 16px;
+	margin-left: 25%;
+	color: #3B3934;
+}
+
+span {
+	margin: 55px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 900;
+	font-size: 0.95em;
+	color: #771F88;
+}
+
+p {
+	padding: 7px;
+	margin: 5px;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 1.75em;
+	padding: 7px;
+	margin: 5px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #211F1A;
+}
+
+h2 {
+	font-size: 1.3em;
+	text-align: center;
+	width: 900px;
+	color: #211F1A;
+}
+
+#main-image {
+	border: 5px solid #A39C8D;
+	border-radius: 10px;
+}
+
+#nav-menu {
+	background-color: #A39C8D;
+	width: 910px;
+	height: 50px;
+	border-radius: 10px;
+}
+
+#content {
+	background-color: #B6B0A3;
+	width: 910px;
+	border-radius: 10px;
+	margin: 0;
+}
+
+#contact {
+	padding: 7px;
+	margin: 5px;
+	text-align: center;
+}
+
+
+.photo {
+	margin: 10px;
+	justify-content: center;
+	border: 5px solid #817E76;
+	border-radius: 10px;
+	margin-left: 15%;
+}
